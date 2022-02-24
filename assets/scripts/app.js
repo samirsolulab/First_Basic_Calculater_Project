@@ -62,6 +62,9 @@ function writeToLog(
 //   writeToLog('divide', initialResult, enterdNumber, currentResult);
 // }
 
+
+// By using Bind Method
+
 function calculate(operation){
   const enterdNumber = getUserNumberInput();
   const initialResult = currentResult;
